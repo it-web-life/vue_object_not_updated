@@ -1,5 +1,7 @@
 # vue_object_not_updated
 
+詳細な記事: [Vueでオブジェクトのdataがリアクティブに更新されない時の対処方法](https://it-web-life.com/vue_object_not_updated/)
+
 ## Project setup
 ```
 yarn install
